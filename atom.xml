@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yenaidage.github.io/yenai.github.io</id>
     <title>Gridea</title>
-    <updated>2021-02-03T19:48:57.804Z</updated>
+    <updated>2021-02-03T19:49:51.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yenaidage.github.io/yenai.github.io"/>
     <link rel="self" href="https://yenaidage.github.io/yenai.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yenaidage.github.io/yenai.github.io/images/avatar.png</logo>
     <icon>https://yenaidage.github.io/yenai.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://yenaidage.github.io/yenai.github.io/post/ce-shi/</id>
+        <link href="https://yenaidage.github.io/yenai.github.io/post/ce-shi/">
+        </link>
+        <updated>2021-02-03T19:49:35.000Z</updated>
+        <content type="html"><![CDATA[<p>aaaa</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yenaidage.github.io/yenai.github.io/post/hello-gridea/</id>
